@@ -12,8 +12,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/avi413/nft-preview-card.git)
-- Live Site URL: [Add live site URL here](https://avi413.github.io/nft-preview-card/)
+- Solution URL: [solution](https://github.com/avi413/nft-preview-card.git)
+- Live Site URL: [live site](https://avi413.github.io/nft-preview-card/)
 
 
 ### Built with

@@ -1,0 +1,11 @@
+.card__price {
+    color: hsl(178, 100%, 50%);
+    margin: 0 0 16px;
+    font-weight: 400;
+}
+
+.card__price::before {
+    content: url('/images/icon-ethereum.svg');
+    padding-right: 7px;
+    vertical-align: middle;
+}

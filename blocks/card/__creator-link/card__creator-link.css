@@ -1,0 +1,10 @@
+.card__creator-link {
+    color: hsl(0, 0%, 100%);
+    text-decoration: none;
+}
+
+.card__creator-link:hover {
+    color: hsl(178, 100%, 50%);
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}

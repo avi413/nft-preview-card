@@ -1,0 +1,10 @@
+.card__time {
+    margin: 0 0 16px;
+    color: hsl(215, 51%, 70%);
+}
+
+.card__time::before {
+    content: url('/images/icon-clock.svg');
+    padding-right: 7px;
+    vertical-align: middle;
+}

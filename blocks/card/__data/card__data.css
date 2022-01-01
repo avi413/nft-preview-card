@@ -1,0 +1,6 @@
+.card__data {
+    display: grid;
+    margin: 0 20px;
+    align-items: center;
+    justify-content: center;
+}

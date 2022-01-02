@@ -1,7 +1,7 @@
 .card__media {
     position:relative;
-    max-width: 316px;
-    margin: 30px;
+    max-width: 300px;
+    margin: 25px;
     border-radius: 10px 10px; 
 }
 .card__media   {
@@ -20,7 +20,7 @@
     border-radius: 10px 10px; 
 }
 .card__media::before {
-    content:url('/images/icon-view.svg');
+    content:url('../../../images/icon-view.svg');
     position:absolute;
     top: 50%;
     left: 50%;

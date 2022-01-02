@@ -4,7 +4,7 @@
 }
 
 .card__time::before {
-    content: url('/images/icon-clock.svg');
+    content: url('/../images/icon-clock.svg');
     padding-right: 7px;
     vertical-align: middle;
 }

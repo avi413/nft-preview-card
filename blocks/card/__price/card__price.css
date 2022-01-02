@@ -5,7 +5,7 @@
 }
 
 .card__price::before {
-    content: url('/images/icon-ethereum.svg');
+    content: url('/../images/icon-ethereum.svg');
     padding-right: 7px;
     vertical-align: middle;
 }
